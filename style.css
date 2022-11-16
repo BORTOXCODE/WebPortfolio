@@ -1,0 +1,197 @@
+
+/* TLO */
+
+body.bg {
+    background-color: #fdbb31;
+    }
+
+/* NAVBAR */
+
+nav {
+    height: 50px;
+    width: 500px;
+    background: #120035;
+    position: fixed;
+    position: -webkit-fixed;
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-left: 485px;
+    }
+
+nav ul {
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+    margin: auto;
+    list-style-type: none;
+    }
+
+nav a {
+    display: block;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.7s;
+    /* do nauczenia sie */
+    -webkit-animation-name: animatebottom;
+    -webkit-animation-duration: 2s;
+    animation-name: animatebottom;
+    animation-duration: 2s;
+    transform: scale(1.0);
+    /* ---------------- */
+    font-family: Monospace, Preformatted;
+    }
+
+nav a:hover {
+    color: #ffffff80;
+
+    transform: scale(1.15);
+    transition: transform 0.55s ease;
+    }
+
+.nawigacja {
+    max-width: 1200px;
+    margin: auto;
+    }
+
+/* POCZATEK */
+
+.hey {
+    font-family: Sans Serif, Proportional;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 25px;
+    }
+
+.zdj {
+    width: 100px;
+    height: 100px;
+    margin-top: 200px;
+    border-radius: 20px;
+    }
+
+/* ROZWINIECIE */
+
+/* AKAPIT 1 */
+
+.tytul1 {
+    font-family: Monospace, Preformatted;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 400px;
+    margin-right: 650px;
+    }
+
+.opis1 {
+    font-family: Monospace, Preformatted;
+    font-size: 25px;
+    margin-right: 650px;
+    margin-top: 25px;
+    }
+
+.tlo1 {
+    width: 150px;
+    height: 150px;
+    margin-top: -200px;
+    margin-left: 750px;
+    border-radius: 30px;
+    background-color: #fd9c31;
+    }
+
+.img1 {
+    width: 100px;
+    height: 100px;
+    margin-top: -200px;
+    margin-bottom: 70px;
+    margin-left: 750px;
+    }
+
+/* AKAPIT 2 */
+
+.tytul2 {
+    font-family: Monospace, Preformatted;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 300px;
+    margin-left: 650px;
+    }
+
+.opis2 {
+    font-family: Monospace, Preformatted;
+    font-size: 25px;
+    margin-left: 650px;
+    text-decoration: none;
+    color: black;
+    }
+
+.tlo2 {
+    width: 150px;
+    height: 150px;
+    margin-top: -200px;
+    margin-right: 750px;
+    border-radius: 30px;
+    background-color: #fd9c31;
+    }
+
+.img2 {
+    width: 100px;
+    height: 100px;
+    margin-top: -110px;
+    margin-bottom: 70px;
+    margin-right: 740px;
+    }
+
+/* AKAPIT 3 */
+
+.tytul3 {
+    font-family: Monospace, Preformatted;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 250px;
+    margin-right: 650px;
+    }
+
+.opis3 {
+    font-family: Monospace, Preformatted;
+    font-size: 25px;
+    margin-right: 650px;
+    color: black;
+    text-decoration: none;
+    }
+
+.tlo3 {
+    width: 150px;
+    height: 150px;
+    margin-top: -200px;
+    margin-left: 750px;
+    border-radius: 30px;
+    margin-bottom: 200px;
+    background-color: #fd9c31;
+    }
+
+.img3 {
+    width: 100px;
+    height: 100px;
+    margin-top: -100px;
+    margin-bottom: 70px;
+    margin-left: 750px;
+    }
+
+.footer {
+    width: 1450px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #120035;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-family: Monospace, Preformatted;
+    }
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 250px;
+}
