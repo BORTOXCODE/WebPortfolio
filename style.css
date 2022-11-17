@@ -61,15 +61,15 @@ nav a:hover {
 
 .hey {
     font-family: Sans Serif, Proportional;
-    font-size: 50px;
+    font-size: 250%;
     font-weight: bold;
-    margin-top: 25px;
+    margin-top: 1%;
     }
 
 .zdj {
-    width: 100px;
-    height: 100px;
-    margin-top: 200px;
+    width: 7.5%;
+    height: 7.5%;
+    margin-top: 15%;
     border-radius: 22.5px;
     }
 
@@ -80,23 +80,23 @@ nav a:hover {
 .tytul1 {
     font-family: Monospace, Preformatted;
     font-weight: bold;
-    font-size: 50px;
-    margin-top: 400px;
-    margin-right: 650px;
+    font-size: 300%;
+    margin-top: 25%;
+    margin-right: 45%;
     }
 
 .opis1 {
     font-family: Monospace, Preformatted;
-    font-size: 25px;
-    margin-right: 650px;
-    margin-top: 25px;
+    font-size: 150%;
+    margin-right: 45%;
+    margin-top: 1%;
     }
 
 .tlo1 {
     width: 150px;
     height: 150px;
-    margin-top: -200px;
-    margin-left: 750px;
+    margin-top: -13.5%;
+    margin-left: 51%;
     border-radius: 30px;
     background-color: #fd9c31;
     }
@@ -104,9 +104,9 @@ nav a:hover {
 .img1 {
     width: 100px;
     height: 100px;
-    margin-top: -200px;
-    margin-bottom: 70px;
-    margin-left: 750px;
+    margin-top: -13.5%;
+    margin-bottom: 5%;
+    margin-left: 51%;
     }
 
 /* AKAPIT 2 */
@@ -114,15 +114,16 @@ nav a:hover {
 .tytul2 {
     font-family: Monospace, Preformatted;
     font-weight: bold;
-    font-size: 50px;
-    margin-top: 300px;
-    margin-left: 650px;
+    font-size: 300%;
+    margin-top: 20%;
+    margin-left: 45%;
     }
 
 .opis2 {
     font-family: Monospace, Preformatted;
-    font-size: 25px;
-    margin-left: 650px;
+    font-size: 150%;
+    margin-left: 45%;
+    margin-top: 1%;
     text-decoration: none;
     color: black;
     }
@@ -130,8 +131,8 @@ nav a:hover {
 .tlo2 {
     width: 150px;
     height: 150px;
-    margin-top: -200px;
-    margin-right: 750px;
+    margin-top: -13.5%;
+    margin-right: 51%;
     border-radius: 30px;
     background-color: #fd9c31;
     }
@@ -139,59 +140,59 @@ nav a:hover {
 .img2 {
     width: 100px;
     height: 100px;
-    margin-top: -110px;
-    margin-bottom: 70px;
-    margin-right: 740px;
+    margin-top: -7.5%;
+    margin-bottom: 5%;
+    margin-right: 50.5%;
     }
+
 
 /* AKAPIT 3 */
 
 .tytul3 {
     font-family: Monospace, Preformatted;
     font-weight: bold;
-    font-size: 50px;
-    margin-top: 250px;
-    margin-right: 650px;
+    font-size: 300%;
+    margin-top: 20%;
+    margin-right: 45%;
     }
 
 .opis3 {
     font-family: Monospace, Preformatted;
-    font-size: 25px;
-    margin-right: 650px;
-    color: black;
+    font-size: 150%;
+    margin-right: 45%;
+    margin-top: 1%;
     text-decoration: none;
+    color: black;
     }
 
 .tlo3 {
     width: 150px;
     height: 150px;
-    margin-top: -200px;
-    margin-left: 750px;
+    margin-top: -9%;
+    margin-left: 51%;
     border-radius: 30px;
-    margin-bottom: 200px;
     background-color: #fd9c31;
     }
 
 .img3 {
     width: 100px;
     height: 100px;
-    margin-top: -100px;
-    margin-bottom: 70px;
-    margin-left: 750px;
+    margin-top: -13.5%;
+    margin-left: 51%;
     }
 
 .footer {
-    width: 1450px;
+    width: 100%;
     height: 60px;
     border-radius: 10px;
     background-color: #120035;
     color: white;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 150px;
     font-family: Monospace, Preformatted;
     }
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 250px;
+  scroll-padding-top: 40%;
   }
