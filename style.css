@@ -8,14 +8,14 @@ body.bg {
 /* NAVBAR */
 
 nav {
-    height: 50px;
-    width: 500px;
+    height: 7%;
+    width: 40%;
     background: #120035;
     position: fixed;
     position: -webkit-fixed;
     border-radius: 25px;
-    margin-top: 15px;
-    margin-left: 485px;
+    margin-top: 1%;
+    margin-left: 30%;
     }
 
 nav ul {
@@ -70,7 +70,7 @@ nav a:hover {
     width: 100px;
     height: 100px;
     margin-top: 200px;
-    border-radius: 20px;
+    border-radius: 22.5px;
     }
 
 /* ROZWINIECIE */
@@ -194,4 +194,4 @@ nav a:hover {
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 250px;
-}
+  }
